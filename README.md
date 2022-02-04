@@ -1,7 +1,7 @@
 # Exercice markdown en solo
 
-    Création d'une page "profile"
+Création d'une page "profile"
 
 ## Lien
 
-    [Go to my profile](Markdown.md)
+[Go to my profile](Markdown.md)
