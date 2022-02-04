@@ -2,7 +2,7 @@
 
 _Quoi que tu fasse, efforce toi de le faire bien._
 
-![Ceci n'est pas moi](challenge-markdown\Image\Kevin-May.jpg)
+![Ceci n'est pas moi](Image/Kevin-May.jpg)
 
 ### Moi en une seule phrase:
 
@@ -13,21 +13,21 @@ _Quoi que tu fasse, efforce toi de le faire bien._
 |Gender: | Male |
 |Favorite color | Mauve |
 |Favorite food | Riz / Gyoza |
-|Ananas sur la pizza? | [] Oui / [x] Non > C'est illégal, vous le savez ça? |
+|Ananas sur la pizza? | - [ ] Oui / - [x] Non > C'est illégal, vous le savez ça? |
 
 ### Passions
 
 1. Les films:
    - Man of Steal
    - Marvels
-2. Les jeux vidéos
+2. Les jeux vidéos:
    - Stellaris
    - CoD
    - Warframe
    - Neverwinter
    - WoW
    - Pokemon
-3. Musique
+3. Musique:
    - Rock
    - Pop/Rock
    - Punk/Pop
