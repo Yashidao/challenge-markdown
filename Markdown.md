@@ -1,6 +1,6 @@
 # Tran Kevin-May
 
-_Quoi que tu fasse, efforce toi de le faire bien._
+_Quoi que tu fasses, efforce toi de le faire bien._
 
 ![Ceci n'est pas moi](Image/Kevin-May.jpg)
 
