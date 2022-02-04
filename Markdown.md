@@ -4,9 +4,9 @@ _Quoi que tu fasse, efforce toi de le faire bien._
 
 ![Ceci n'est pas moi](Image/Kevin-May.jpg)
 
-### Moi en une seule phrase:
+## Moi en une seule phrase
 
-    Qui ne tente rien, n'a rien.
+_Qui ne tente rien, n'a rien._
 
 |Birthday: | 03/06 |
 |:---------|:-----:|
@@ -36,10 +36,10 @@ _Quoi que tu fasse, efforce toi de le faire bien._
 
 ### On peut toujour compter sur moi quand
 
-    Quand on ne comprends pas un sujet, une manière de faire, j'essaye au mieux pour expliquer d'une manière différente avec des exemples ou bien imager la scène.
+Quand on ne comprends pas un sujet, une manière de faire, j'essaye au mieux pour expliquer d'une manière différente avec des exemples ou bien imager la scène.
 
 ### Histoire fun
 
-    Je peux boire une quantité faramineuse de lait en une journée mais chuuuuut haha
+Je peux boire une quantité faramineuse de lait en une journée mais chuuuuut haha
 
 [<< previous](https://github.com/jptsr/challenge-markdown/blob/main/README.md) || Kevin-May Tran || [next >>](https://github.com/CalcagnoLoic/challenge-markdown/blob/main/README.md)
